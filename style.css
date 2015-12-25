@@ -1,0 +1,36 @@
+* {
+	font-family: 'Roboto', Helvetica;
+}
+
+h1 {
+	margin-top: 50px;
+	font-weight: bolder;
+	text-align: center;
+	font-size: 100px;
+}
+
+.bulb {
+	min-height: 150px;
+	min-width: 150px;
+}
+
+.switch {
+	min-height: 100px;
+	min-width: 100px;
+}
+
+.container {
+	text-align: center;
+}
+
+#switches1 {
+	padding-bottom: 60px;
+}
+
+#image-source {
+	color: black;
+	font-weight: bold;
+	position: absolute;
+	bottom: 10px;
+	right: 10px;
+} 
